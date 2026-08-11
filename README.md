@@ -1,27 +1,19 @@
-# ¡Hola! Soy Ronaldo Navarro (@godkiun) 👋
-### Desarrollador de Sistemas Embebidos, Software Biomédico y Servidores MCP
+# Ronaldo Navarro
 
-¡Bienvenido a mi perfil de GitHub! Me especializo en el desarrollo de dispositivos electrónicos biomédicos, diseño de firmware para microcontroladores PIC/AVR/ESP32, procesamiento de señales y arquitectura de software web con Python/FastAPI.
+Desarrollador de sistemas embebidos, ingeniería biomédica y aplicaciones web con Python. Trabajo en el diseño de hardware con microcontroladores PIC y ESP32, procesamiento de señales y desarrollo de herramientas basadas en el protocolo MCP (Model Context Protocol).
 
----
+## Proyectos principales
 
-## 🚀 Proyectos Destacados
+- [Stomalyzer](https://github.com/godkiun/stomalyzer): Dispositivo médico portátil que mide hidrógeno (H2) y metano (CH4) en el aliento. Utiliza un microcontrolador PIC18F45K50, un backend en FastAPI y un servidor MCP dedicado.
+- [VOLTLYZER-LC](https://github.com/godkiun/VOLTLYZER-LC): Sistema de análisis y monitoreo en tiempo real de interrupciones y variaciones en la red eléctrica local.
+- [Analizador de Aceite Dieléctrico](https://github.com/godkiun/analizador-aceite-dielectrico): Diagnóstico optoelectrónico para evaluar la degradación de aceite en transformadores eléctricos.
+- [Sistema de Microclimas Locales](https://github.com/godkiun/sistema-microclimas-locales): Automatización de monitoreo climatológico con redes de sensores.
+- [Scraper Clínico](https://github.com/godkiun/scraper-clinico): Herramienta para extracción y estructuración automática de datos desde reportes de salud.
 
-* 🩺 **[Stomalyzer](https://github.com/godkiun/stomalyzer):** Analizador portátil de aliento ($H_2$ y $CH_4$) con PIC18F45K50, FastAPI y servidor MCP.
-* ⚡ **[VOLTLYZER-LC](https://github.com/godkiun/VOLTLYZER-LC):** Analizador inteligente de calidad de energía y voltaje.
-* 🔬 **[Analizador Aceite Dieléctrico](https://github.com/godkiun/analizador-aceite-dielectrico):** Diagnóstico optoelectrónico de transformadores mediante Machine Learning.
-* 🌱 **[Sistema Microclimas Locales](https://github.com/godkiun/sistema-microclimas-locales):** Monitoreo y control climatológico automatizado.
-* 📊 **[Scraper Clínico](https://github.com/godkiun/scraper-clinico):** Extracción y estructuración de datos clínicos.
+## Tecnologías y herramientas
 
----
+- **Embebidos y Electrónica:** PIC18F45K50, ESP32, AVR, C, C++, Proteus VSM, MPLAB, CCS C.
+- **Desarrollo Web y Backend:** Python, FastAPI, Uvicorn, REST APIs, Supabase, SQLite, TailwindCSS.
+- **DevOps e Integraciones:** Model Context Protocol (MCP), Docker, Git, Render.
 
-## 🛠️ Tecnologías & Herramientas
-
-* **Lenguajes:** Python, C, C++, JavaScript, HTML5/CSS3 (TailwindCSS).
-* **Microcontroladores & Embebidos:** PIC18F45K50, ESP32, AVR, Proteus VSM, MPLAB / CCS C.
-* **Backend & Web:** FastAPI, Uvicorn, REST APIs, Supabase, SQLite.
-* **Protocolos & DevOps:** Model Context Protocol (MCP), Git/GitHub, Docker, Render.
-
----
-
-📬 **Contacto:** [ronaldonavarro3005@gmail.com](mailto:ronaldonavarro3005@gmail.com)
+Contacto: ronaldonavarro3005@gmail.com
